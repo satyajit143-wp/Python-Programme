@@ -1,4 +1,6 @@
-nums = [10, 20, 30, 50, 60]   # Missing 4
+""" Find missing number form the list """
+
+nums = [1, 2, 3, 5, 6]   # Missing 4
 
 n = 6  # Maximum number
 
